@@ -1,0 +1,72 @@
+@font-face {
+  font-family: "GOTHAMPRO-BLACK"; 
+  src: url("../fonts/Gotham-Pro/GOTHAMPRO-BLACK.TTF") format("truetype"); 
+  font-style: normal; 
+  font-weight: normal; 
+  }
+@font-face {
+  font-family: "GOTHAMPRO-BLACKITALIC"; 
+  src: url("../fonts/Gotham-Pro/GOTHAMPRO-BLACKITALIC.TTF") format("truetype"); 
+  font-style: normal; 
+  font-weight: normal; 
+  }
+@font-face {
+  font-family: "GOTHAMPRO-BOLD"; 
+  src: url("../fonts/Gotham-Pro/GOTHAMPRO-BOLD.TTF") format("truetype"); 
+  font-style: normal; 
+  font-weight: normal; 
+  }
+@font-face {
+  font-family: "GOTHAMPRO-BOLDITALI"; 
+  src: url("../fonts/Gotham-Pro/GOTHAMPRO-BOLDITALIC.TTF") format("truetype"); 
+  font-style: normal; 
+  font-weight: normal; 
+  }
+@font-face {
+  font-family: "GOTHAMPRO-ITALIC"; 
+  src: url("../fonts/Gotham-Pro/GOTHAMPRO-ITALIC.TTF") format("truetype"); 
+  font-style: normal; 
+  font-weight: normal; 
+  }
+@font-face {
+  font-family: "GOTHAMPRO-LIGHT"; 
+  src: url("../fonts/Gotham-Pro/GOTHAMPRO-LIGHT.TTF") format("truetype"); 
+  font-style: normal; 
+  font-weight: normal; 
+  } 
+@font-face {
+  font-family: "GOTHAMPRO-LIGHTITALIC"; 
+  src: url("../fonts/Gotham-Pro/GOTHAMPRO-LIGHTITALIC.TTF") format("truetype"); 
+  font-style: normal; 
+  font-weight: normal; 
+  }  
+@font-face {
+  font-family: "GOTHAMPRO-MEDIUM"; 
+  src: url("../fonts/Gotham-Pro/GOTHAMPRO-MEDIUM.TTF") format("truetype"); 
+  font-style: normal; 
+  font-weight: normal; 
+  } 
+@font-face {
+  font-family: "GOTHAMPRO-MEDIUMITALIC"; 
+  src: url("../fonts/Gotham-Pro/GOTHAMPRO-MEDIUMITALIC.TTF") format("truetype"); 
+  font-style: normal; 
+  font-weight: normal; 
+  } 
+@font-face {
+font-family: "GOTHAMPRO"; 
+src: url("../fonts/Gotham-Pro/GOTHAMPRO.TTF") format("truetype"); 
+font-style: normal; 
+font-weight: normal; 
+} 
+@font-face {
+font-family: "GOTHAMPRONARROW-BOLD"; 
+src: url("../fonts/Gotham-Pro/GOTHAMPRONARROW-BOLD.TTF") format("truetype"); 
+font-style: normal; 
+font-weight: normal; 
+} 
+@font-face {
+  font-family: "GOTHAMPRONARROW-MEDIUM"; 
+  src: url("../fonts/Gotham-Pro/GOTHAMPRONARROW-MEDIUM.TTF") format("truetype"); 
+  font-style: normal; 
+  font-weight: normal; 
+  }  

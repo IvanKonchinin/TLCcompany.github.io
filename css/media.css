@@ -1,0 +1,32 @@
+@media (max-width:400px){
+
+#header{
+  height: 90px;
+}
+.header-logo a {
+  width: 125px;
+  background-size: 70%;
+}
+.header-right {
+  width: 70%;
+  display: flex;
+  padding: 0 10px;
+}
+.header-right-top {
+  flex-wrap: wrap;
+}
+.currency-wrap{
+  display: none;
+}
+.social-icons-wrap {
+  margin: 0 auto;
+  order: 1;
+  width: 40%;
+}
+.social-icons-wrap .instagramm, .social-icons-wrap .vk, .social-icons-wrap .facebook, .social-icons-wrap .skype, .btn-call-wrap,.navbar{
+  display: none;
+}
+.phone-wrap {
+  width: 80%;
+}
+}
